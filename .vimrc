@@ -4,6 +4,7 @@ syntax enable "enables syntax processing
 set tabstop=4 "Number of spaces per tab when opening
 set softtabstop=4 "Number of spaces when editing
 set expandtab "Sets tab to insert spaces instead
+set shiftwidth=4 "Controls indenting
 
 set number "Show line numbers
 set cursorline "Highlights current line
